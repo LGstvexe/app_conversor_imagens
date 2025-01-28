@@ -1,4 +1,4 @@
-# Aplicativo de Conversão de Imagens
+# Aplicativo de Conversor de Imagens
 
 O aplicativo foi criado com a finalidade mais pessoal, facilitando a agilidade na conversão de imagens. Utilizando da biblioteca Pillow para adicionar a capacidade de processamento de imagens ao Python e Tkinter para uma interface gráfica simples, somente para utilização do aplicativo.
 
